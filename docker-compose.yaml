@@ -174,5 +174,3 @@ services:
     depends_on:
       - mongodb
       
-      
-      
