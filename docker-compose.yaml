@@ -173,4 +173,3 @@ services:
       - ME_CONFIG_MONGODB_ADMINPASSWORD=root
     depends_on:
       - mongodb
-      
